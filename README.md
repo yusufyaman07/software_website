@@ -6,3 +6,5 @@ Welcome to the Software Academy and Courses project! This repository contains th
 #Preview
 ![ezgif com-video-to-gif-converted](https://github.com/yusufyaman07/software_website/assets/148998418/8c72c0d3-daae-4bc8-bcf3-14b673253c3d)
 
+# Key Features:You can see the courses of acedemy, contents of courses and technologies
+# Technologies:Html and CSS
